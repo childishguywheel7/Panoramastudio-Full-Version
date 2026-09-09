@@ -1,0 +1,1 @@
+# Panoramastudio-Full-Version

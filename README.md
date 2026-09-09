@@ -240,3 +240,6 @@ This repository serves as the official landing page for PanoramaStudio. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PanoramaStudio today!**
+
+---
+**Last updated:** 2026-09-09 14:16:34 UTC
